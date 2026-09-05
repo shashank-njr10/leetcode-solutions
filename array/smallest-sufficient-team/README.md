@@ -6,8 +6,8 @@
 
 **Language:** cpp
 
-**Runtime:** 35 ms
-**Memory:** 22906 KB
-**Submitted:** 2026-09-05T17:12:34.356Z
+**Runtime:** 31 ms
+**Memory:** 23000 KB
+**Submitted:** 2026-09-05T17:13:22.200Z
 
 **LeetCode:** [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)
